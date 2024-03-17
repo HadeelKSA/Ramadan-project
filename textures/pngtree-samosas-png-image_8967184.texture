@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "pngtree-samosas-png-image_8967184",
+  "identifier": "texture:147792-fc8ce282-1133-460d-a23d-5b52058daf1f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2741248547fd0f1a114f29c2c637dfbc",
+  "assetLocator": "textures/pngtree-samosas-png-image_8967184.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2741248547fd0f1a114f29c2c637dfbc",
+      "colorCount": 24024,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.15021386309411,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
